@@ -10,4 +10,15 @@ ECCV 2024
 
 The released dataset consists of assets/data of a similar number of subjects, although not exactly identical to those used in the paper, due to legal reasons.
 
+## Citation
+Cite us if you use our model, code or data:
+```
+@inproceedings{patel2024fastregistration,
+  title = {Fast Registration of Photorealistic Avatars for VR Facial Animation},
+  author = {Patel, Chaitanya and Bai, Shaojie and Wang, Te-Li and Saragih, Jason and Wei, Shih-En},
+  booktitle = {European Conference on Computer Vision ({ECCV})},
+  year = {2024},
+}
+```
+
 ### Code coming soon...
