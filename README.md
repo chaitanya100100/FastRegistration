@@ -8,8 +8,6 @@ ECCV 2024
 [[Project Website](https://chaitanya100100.github.io/FastRegistration/)]
 [[Ava-256 Dataset](https://about.meta.com/realitylabs/codecavatars/ava256/)]
 
-The released dataset consists of assets/data of a similar number of subjects, although not exactly identical to those used in the paper, due to legal reasons.
-
 ## Citation
 Cite us if you use our model, code or data:
 ```
@@ -21,4 +19,11 @@ Cite us if you use our model, code or data:
 }
 ```
 
-### Code coming soon...
+### Ava-256 Dataset
+See the Ava-256 dataset page for more details. Note that the released dataset consists of assets/data of a similar number of subjects, although not exactly identical to those used in the paper, due to legal reasons.
+
+### Code to train on Ava-256 dataset
+Coming soon...
+
+### Legacy model code
+We provide model code in `legacy` directory which we used to train on internal dataset. Although it is not runnable on public dataset yet, it contains code for core modules. In particular, `legacy/sdm_module.py` and `legacy/st_module.py` contains the code for iterative refinement module (F) and style transfer module (S) respectively. `legacy/model/` contains implementation of network layers.
