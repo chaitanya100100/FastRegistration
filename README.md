@@ -11,11 +11,13 @@ ECCV 2024
 ## Citation
 Cite us if you use our model, code or data:
 ```
-@inproceedings{patel2024fastregistration,
-  title = {Fast Registration of Photorealistic Avatars for VR Facial Animation},
-  author = {Patel, Chaitanya and Bai, Shaojie and Wang, Te-Li and Saragih, Jason and Wei, Shih-En},
-  booktitle = {European Conference on Computer Vision ({ECCV})},
-  year = {2024},
+@inproceedings{patel2024fast,
+  title={Fast Registration of Photorealistic Avatars for VR Facial Animation},
+  author={Patel, Chaitanya and Bai, Shaojie and Wang, Te-Li and Saragih, Jason and Wei, Shih-En},
+  booktitle={European Conference on Computer Vision},
+  pages={407--423},
+  year={2024},
+  organization={Springer}
 }
 ```
 
